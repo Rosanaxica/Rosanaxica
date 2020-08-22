@@ -1,10 +1,9 @@
-  # Oi seus lindos, eu sou a Rosana! Web Developer!
-  ## Sejam bem vindos ao meu github
-  
-      👋
+  # Oi seus lindos!
+  ## 😄 Sejam bem vindos ao meu github
 ![Header](https://github.com/Rosanaxica/Rosanaxica/blob/master/github_cover.png "Header")]
 
-
+## Sobre Mim
+<p>lá Rosana aqui , mais conhecida como a menina do black roxo, trabalhando como front-end na empresa everis e apoiando comunidades como PerifaCode, Minas de TI, meu intuito é dar visibilidade e acesso às minorias para que possamos crescer junto, tenho como missão ajudar as pessoas e resolver problemas, então seguindo essa linha resolvo problemas todos os dias na construção de aplicações de valor. Sou formada em ciências da computação e pós graduada em arquitetura da informação e ux e entusiasta de acessibilidade.</p>
 
 <!--
 **Rosanaxica/Rosanaxica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
