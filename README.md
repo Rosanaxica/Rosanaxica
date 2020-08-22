@@ -1,5 +1,5 @@
-  # Oi seus lindos, euy sou a Rosana!
-  
+  # Oi seus lindos, eu sou a Rosana! Web Developer!
+  ## Sejam bem vindos ao meu github
   
       👋
 ![Header](https://github.com/Rosanaxica/Rosanaxica/blob/master/github_cover.png "Header")]
