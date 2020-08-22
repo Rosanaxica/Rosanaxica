@@ -4,9 +4,9 @@
 
 Olá Rosana aqui , mais conhecida como a menina do black roxo, trabalho como  desenvolvedora front-end e apoio comunidades como PerifaCode, Minas de TI, meu intuito é dar visibilidade e acesso às minorias para que possamos crescer junto, tenho como missão ajudar as pessoas e resolver problemas, então seguindo essa linha resolvo problemas todos os dias na construção de aplicações de valor. Sou formada em ciências da computação e pós graduada em arquitetura da informação e ux e entusiasta de acessibilidade.
 
-Skills: HTML | CSS | ANGULAR | JAVA | BOOTSTRAP | MATERIAL DESIGN | PRIME NG | JQUERY |
+Skills: HTML | CSS |  JAVASCRIPT | ANGULAR | JAVA | BOOTSTRAP | MATERIAL DESIGN | PRIME NG | JQUERY | NODE | FIGMA | ADOBE PHOTOSHOP
 
-- 🔭 Atualmente rtabalhando em  experiências Phygital e aplicações em Angular 2+
+- 🔭 Atualmente trabalhando em  experiências Phygital e aplicações em Angular 2+ com intregração a back-ends Java e node.
 - 🌱 Atualmente aprendendo POO e Java 
 
 
