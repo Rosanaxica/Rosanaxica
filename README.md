@@ -15,3 +15,4 @@ Skills: HTML | CSS |  JAVASCRIPT | ANGULAR | JAVA | BOOTSTRAP | MATERIAL DESIGN 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanaxica&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/rosanaxica)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanaxica&hide=javascript,html)](https://github.com/rosanaxica/github-readme-stats)
