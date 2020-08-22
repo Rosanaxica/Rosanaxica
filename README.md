@@ -1,5 +1,11 @@
-### Hi there 👋
+  # Oi seus lindos, euy sou a Rosana!
+  
+  
+      👋
 ![Header](https://github.com/Rosanaxica/Rosanaxica/blob/master/github_cover.png "Header")]
+
+
+
 <!--
 **Rosanaxica/Rosanaxica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
