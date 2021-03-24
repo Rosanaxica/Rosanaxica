@@ -1,4 +1,4 @@
-### Oi seus lindos  👋
+### Oi, seus lindos!  👋
 #### Sou desenvolvedora web 
 ![Sou desenvolvedora web ](https://github.com/Rosanaxica/Rosanaxica/blob/master/github_cover.png)
 
