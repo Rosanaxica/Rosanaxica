@@ -7,7 +7,7 @@ Olá Rosana aqui , mais conhecida como a menina do black roxo, trabalho como  de
 Skills: HTML | CSS |  JAVASCRIPT | ANGULAR | JAVA | BOOTSTRAP | MATERIAL DESIGN | PRIME NG | JQUERY | NODE | FIGMA | ADOBE PHOTOSHOP
 
 - 🔭 Atualmente trabalhando em  experiências Phygital e aplicações em Angular 2+ com intregração a back-ends Java e node.
-- 🌱 Atualmente aprendendo POO e Java 
+- 🌱 Atualmente aprendendo Programação Funcional e Testes unitários
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rosanaxica) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rsouzada/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rosanaxica/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rosanaxica)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rosanaxica7)  
