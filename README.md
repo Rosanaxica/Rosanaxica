@@ -12,7 +12,7 @@ Skills: HTML | CSS |  JAVASCRIPT | ANGULAR | JAVA | BOOTSTRAP | MATERIAL DESIGN 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rosanaxica) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rsouzada/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rosanaxica/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rosanaxica)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rosanaxica7)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanaxica&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanaxica&theme=midnight-purple&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanaxica&hide=javascript,html)](https://github.com/rosanaxica/github-readme-stats)
 
 
