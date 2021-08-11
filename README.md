@@ -14,17 +14,17 @@ Olá Rosana aqui , mais conhecida como a menina do black roxo, trabalho como  de
 
 
 <div style="display:'flex'; justify-content:'center';">
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/angularjs-original.svg' alt='angular' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/html5-original.svg' alt='html5' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/css3-original.svg' alt='css3' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/javascript-original.svg' alt='jsvascript' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/typescript-original.svg' alt='typescript' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/bootstrap-plain-wordmark.svg' alt='boostrap' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/nodejs-original.svg' alt='nodejs' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/java-original.svg' alt='java' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/materialui-original.svg' alt='material' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/photoshop-line.svg' alt='photoshop' height='40'>
-<img src='https://github.com/Rosanaxica/Rosanaxica/blob/master/figma-original.svg' alt='figma' height='40'>
+<img align="center" src='https://github.com/Rosanaxica/Rosanaxica/blob/master/angularjs-original.svg' alt='angular' height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/html5-original.svg' alt='html5'height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/css3-original.svg' alt='css3' height='30' width='40'>
+<img align="center" src='https://github.com/Rosanaxica/Rosanaxica/blob/master/javascript-original.svg' alt='javascript' height='30' width='40'>
+<img align="center" src='https://github.com/Rosanaxica/Rosanaxica/blob/master/typescript-original.svg' alt='typescript' height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/bootstrap-plain-wordmark.svg' alt='boostrap' height='30' width='40'>
+<img align="center" src='https://github.com/Rosanaxica/Rosanaxica/blob/master/nodejs-original.svg' alt='nodejs' height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/java-original.svg' alt='java' height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/materialui-original.svg' alt='material'height='30' width='40'>
+<img align="center" src='https://github.com/Rosanaxica/Rosanaxica/blob/master/photoshop-line.svg' alt='photoshop' height='30' width='40'>
+<img align="center"src='https://github.com/Rosanaxica/Rosanaxica/blob/master/figma-original.svg' alt='figma' height='30' width='40'>
 </div>
 
 
